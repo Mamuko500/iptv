@@ -3,3 +3,6 @@ https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",Izaura TV
 https://streaming.mytvback.com/stream/Hdm2fo_Tt9CiKey6Zl-zbQ/1642034071/channel040/stream-br1872000.m3u8
+
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",Bravo
+https://h5.ustvgo.la/Bravo/myStream/playlist.m3u8
