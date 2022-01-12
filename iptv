@@ -12,3 +12,6 @@ https://streaming.mytvback.com/stream/Hdm2fo_Tt9CiKey6Zl-zbQ/1642034071/channel0
 
 #EXTINF:-1 tvg-name="JOJ PLUS" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",JOJ PLUS
 https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
+
+#EXTINF:-1 tvg-name="1000-lb sisters" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",1000-lb sisters
+https://os1.crasping.site/6Y3kSMwNvhcW_fTk17lrog/1642037180/storage5/shows/11617414-1000-lb-sisters-2020/29037-S3-E8-1641861896/480p/index.m3u8
