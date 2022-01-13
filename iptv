@@ -7,11 +7,10 @@ https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
 #EXTINF:-1 tvg-name="RTL GOLD" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",RTL GOLD
 https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
 
-#EXTINF:-1 tvg-name="Izaura TV" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",Izaura TV
-https://streaming.mytvback.com/stream/Hdm2fo_Tt9CiKey6Zl-zbQ/1642034071/channel040/stream-br1872000.m3u8
+#EXTINF:-1 tvg-name="Film+" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",Film+
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 
 #EXTINF:-1 tvg-name="JOJ PLUS" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",JOJ PLUS
 https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
 
-#EXTINF:-1 tvg-name="1000-lb sisters" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",1000-lb sisters
-http://127.0.0.1:11470/fcb40fd27e106effd4e17dd65db64f11fa191648/0
+
