@@ -13,4 +13,6 @@ https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1 tvg-name="JOJ PLUS" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",JOJ PLUS
 https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8
 
+#EXTINF:-1 tvg-name="Cool TV" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",Cool TV
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
 
