@@ -25,8 +25,7 @@ https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8
 #EXTINF:-1 tvg-id="Paramount_Channel" tvg-name="Paramount Channel",Paramount Channel
 http://r45.dtv.invitel.net:40124/udp/239.1.1.73:5000?
 
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",Discovery Channel
-https://list.iptvcat.com/my_list/s/03340456b39367d4fd5f48cc44cb08f2.m3u8
+
 
 
 
