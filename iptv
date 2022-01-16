@@ -26,6 +26,8 @@ https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/4300.m3u8
 http://r45.dtv.invitel.net:40124/udp/239.1.1.73:5000?
 
 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://tinyurl.com/m59uaems" group-title="live tv",HBO
+https://list.iptvcat.com/my_list/s/86c2ebb2406d1389573186951bbf22cf.m3u8
 
 
 
